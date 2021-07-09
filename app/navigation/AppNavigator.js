@@ -97,6 +97,7 @@ const AppStackNavigator = createStackNavigator({
         //         fontWeight: 'bold',
         //     },
         // },
+        //sas
 
     }
 );
