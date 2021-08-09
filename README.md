@@ -1,5 +1,8 @@
 Gradle Version 6.7 -- https://docs.gradle.org/6.7/release-notes.html
 
+# Windows 10 
+D:\Program Files\jdk-14.0.1
+
 # MACos java 15 
 https://jdk.java.net/archive/
 
