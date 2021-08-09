@@ -15,8 +15,6 @@ class Profile extends Component {
 		title: 'Profil Bilgilerim',
 	});
 
-
-
 	constructor(props) {
 		super(props)
 		this.state = {
@@ -25,14 +23,7 @@ class Profile extends Component {
 			userToken: '',
 			hasToken: '',
 		}
-
-
 	}
-
-
-
-
-
 
 // static getDerivedStateFromProps(props, state){
 //     if( props.isLoginSuccess  === "1" ){

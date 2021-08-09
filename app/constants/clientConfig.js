@@ -1,10 +1,18 @@
+// export const BaseConfig = {
+// 	siteBaseUrl: 'https://api.biyoguvenlik.info.tr/',
+// 	// siteBaseUrl: 'http://wp.test/',
+// 	username: 'Rest',
+// 	password: 'AU3Nl1GXhuNtCzhmey)CwOG!'
+// 	//  demoUser   dem23dem99
+// };
+
+
 export const BaseConfig = {
-	siteBaseUrl: 'https://api.biyoguvenlik.info.tr/',
-	// siteBaseUrl: 'http://wp.test/',
+	siteBaseUrl: 'https://lab.test/',
 	username: 'Rest',
 	password: 'AU3Nl1GXhuNtCzhmey)CwOG!'
-	//  demoUser   dem23dem99
 };
+
 
 export const clientConfig = {
 	siteUrl: BaseConfig.siteBaseUrl,
