@@ -26,7 +26,9 @@ react native
 https://dev-yakuza.posstree.com/en/react-native/install-on-mac/#watchman
 
 ## SORUNLAR
-# https://stackoverflow.com/questions/48708287/java-command-not-found
+
+https://stackoverflow.com/questions/48708287/java-command-not-found
+
 zsh sorunları https://mkyong.com/java/how-to-install-java-on-mac-osx/
 export JAVA_HOME="/Library/Java/JavaVirtualMachines/adoptopenjdk-15.jdk/Contents/Home"
 export PATH="$PATH:$JAVA_HOME/bin"
