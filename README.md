@@ -4,10 +4,10 @@ With this application, you will learn quickly by reading the information you nee
 solving quizzes and watching videos, and you will be able to get a certificate.
  Thanks to this application, easy access to trainings will be provided in every period deemed necessary.
 
-![Alt text](tools/pictures/app1.png?raw=true "app1")
-![Alt text](tools/pictures/app2.png?raw=true "app 2")
-![Alt text](tools/pictures/app3.png?raw=true "app 3")
-![Alt text](tools/pictures/app4.png?raw=true "app 4")
+![app image1](tools/pictures/app1.png?raw=true "app1")
+![app image1](tools/pictures/app2.png?raw=true "app 2")
+![app image1](tools/pictures/app3.png?raw=true "app 3")
+![app image1](tools/pictures/app4.png?raw=true "app 4")
 
 # Google Play Download Page
 
