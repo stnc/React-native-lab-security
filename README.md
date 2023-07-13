@@ -4,6 +4,12 @@ With this application, you will learn quickly by reading the information you nee
 solving quizzes and watching videos, and you will be able to get a certificate.
  Thanks to this application, easy access to trainings will be provided in every period deemed necessary.
 
+# backend 
+wordpress api is used as backend, you can see the codes here
+
+https://github.com/stnc/React-native-lab-security/blob/main/tools/ApiSite.zip
+
+
 ![app image1](tools/pictures/app1.png?raw=true "app1")
 ![app image1](tools/pictures/app2.png?raw=true "app 2")
 ![app image1](tools/pictures/app3.png?raw=true "app 3")
