@@ -4,7 +4,10 @@ With this application, you will learn quickly by reading the information you nee
 solving quizzes and watching videos, and you will be able to get a certificate.
  Thanks to this application, easy access to trainings will be provided in every period deemed necessary.
 
-
+![Alt text](tools/pictures/app1.png?raw=true "app1")
+![Alt text](tools/pictures/app2.png?raw=true "app 2")
+![Alt text](tools/pictures/app3.png?raw=true "app 3")
+![Alt text](tools/pictures/app4.png?raw=true "app 4")
 
 # Google Play Download Page
 
@@ -17,6 +20,9 @@ tr:
 Bu uygulama ülkemizde laboratuvarda çalışan araştırmacıların laboratuvar güvenliği konusunda gerekli bilgiye sahip olmaları amacıyla hazırlanmıştır. 
 Bu uygulama ile size gerekli olan bilgileri okuyarak, quiz çözerek ve video izleyerek hızlıca öğreneceksiniz ve sertifika alabileceksiniz. 
 Bu uygulama sayesinde gerekli görülen her dönemde eğitimlere kolay ulaşım sağlanmış olacaktır.
+
+
+
 
 
 ## Windows 10 
